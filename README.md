@@ -12,3 +12,5 @@ git clone https://github.com/hobittinen/palomuurin_konfigurointi.git
     git add .
     git commit -m "Lisätään palomuurityökalu"
     git push -u origin main
+
+gh repo clone hobittinen/palomuurin_konfigurointi
