@@ -142,3 +142,9 @@ Halusin vielä tarkistaa uudelleen ufw:n ja iptablesin yhteiselon onnistumisen.
 
 Totesin olevani nyt tyytyväinen moduuliini. Työni tuli päätökseen 2.12. klo 15.55.
 
+
+## Lähteet
+
+Cyberciti. *Set up a firewall with UFW on Debian 12 Linux*. Saatavilla: [https://www.cyberciti.biz/faq/set-up-a-firewall-with-ufw-on-debian-12-linux/](https://www.cyberciti.biz/faq/set-up-a-firewall-with-ufw-on-debian-12-linux/)
+
+UpCloud. *Configure iptables on Debian*. Saatavilla: [https://upcloud.com/resources/tutorials/configure-iptables-debian](https://upcloud.com/resources/tutorials/configure-iptables-debian)
